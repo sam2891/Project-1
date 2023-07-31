@@ -4,8 +4,21 @@ import './App.css';
 function App() {
 
   return (
-    <div className="App">
-     
+    <div className="Sam">
+      <h1>My First React App</h1>
+
+      <h2>About Me:</h2>
+      <div>
+        <img src="https://picsum.photos/200/300" alt="random"></img>
+      </div>
+      <p>
+        svyystvynaptvmypatvmitc,povohxgk.hgs;rhg;hre;wonbononb;on;obn;jn;osrn:ONbno"Obn;ronzobn[rfndmon
+        bdvsbivbpipionvdpiobnpsojBNOPNBO:NBPBpoNBPONBponob<br></br>
+        vsbibvibvdisbivbibvpibvibibnibnfanbnlbn;zfbn;bhnbcijhanfbpnfobonpbnpbnzpbiznabpainbPIONBPnbpnbfpbfn
+        seagingnhnaphondponmpoketobm....
+      </p>
+
+
     </div>
   );
 }
