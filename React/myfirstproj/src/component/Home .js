@@ -1,9 +1,14 @@
 import React from 'react'
 
-function Home() {
+function Home({ title }) {
+
+
     return (
+
         <div>
-            <h1>My First React App</h1>
+            <h1>
+                {title}
+            </h1>
 
             <h2>About Me:</h2>
             <div>
