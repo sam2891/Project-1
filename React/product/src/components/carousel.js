@@ -27,7 +27,7 @@ function Carousalreact() {
           />
           <Carousel.Caption>
             <div className="carousel-content">
-              <h5>Vintage</h5>
+              <h5>Vintages</h5>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
           </Carousel.Caption>
@@ -35,13 +35,13 @@ function Carousalreact() {
         <Carousel.Item className="carousel-parent">
           <img
             className="d-block w-100"
-            src="https://e0.pxfuel.com/wallpapers/521/101/desktop-wallpaper-camera-vintage.jpg"
+            src="https://w7.pngwing.com/pngs/632/171/png-transparent-smartphone-telephone-android-mobile-web-cpr-cell-phone-repair-omaha-smartphone-electronics-gadget-mobile-phone.png"
             alt="Third slide"
             height="600"
           />
           <Carousel.Caption>
             <div className="carousel-content">
-              <h5>Vintage</h5>
+              <h5>Mobiles</h5>
               <p>
                 Praesent commodo cursus magna, vel scelerisque nisl consectetur.
               </p>
