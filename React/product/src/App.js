@@ -10,8 +10,9 @@ function App() {
     <div className="App">
       <Navbarreact />
       <Carousalreact />
-      <Productcat />
+      <Productcat title={"CLOTHES"} />
       <Cardreact />
+      <Productcat title={"ELECTRONICS"} />
     </div>
   );
 }
